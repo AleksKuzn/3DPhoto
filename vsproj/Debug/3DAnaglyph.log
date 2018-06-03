@@ -1,0 +1,38 @@
+﻿Построение начато 08.09.2017 0:01:27.
+     1>Проект "C:\Users\a_v_k\Documents\3DPhoto-master\vsproj\3DAnaglyph.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\3DAnaglyph.lib.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /I..\include\_include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"_3DAnaglyph.h" /Fp"Debug\3DAnaglyph.lib.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\3danaglyph.cpp ..\src\3ddisplace.cpp ..\src\3dfulldepth.cpp ..\src\3dinterpolate1.cpp ..\src\3dmakeanaglyph.cpp ..\src\3dmaketile.cpp ..\src\3dmaskgradient.cpp ..\src\3dsigma.cpp ..\src\3dsparcedepth.cpp ..\src\avi_utils.cpp
+         avi_utils.cpp
+         3dsparcedepth.cpp
+         3dsigma.cpp
+         3dmaskgradient.cpp
+         3dmaketile.cpp
+         3dmakeanaglyph.cpp
+         3dinterpolate1.cpp
+         3dfulldepth.cpp
+         3ddisplace.cpp
+         3danaglyph.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\a_v_k\Documents\3DPhoto-master\vsproj\Debug\3DAnaglyph.lib.lib" /NOLOGO Debug\3danaglyph.obj
+         Debug\3ddisplace.obj
+         Debug\3dfilenameutils.obj
+         Debug\3dfilter.obj
+         Debug\3dfulldepth.obj
+         Debug\3dinterpolate1.obj
+         Debug\3dmakeanaglyph.obj
+         Debug\3dmaketile.obj
+         Debug\3dmaskgradient.obj
+         Debug\3dsigma.obj
+         Debug\3dsparcedepth.obj
+         Debug\avi_utils.obj
+         3DAnaglyph.vcxproj -> C:\Users\a_v_k\Documents\3DPhoto-master\vsproj\Debug\3DAnaglyph.lib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\3DAnaglyph.lib.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\3DAnaglyph.lib.lastbuildstate".
+     1>Построение проекта "C:\Users\a_v_k\Documents\3DPhoto-master\vsproj\3DAnaglyph.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:11.56
